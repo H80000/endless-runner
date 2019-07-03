@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: a19a897987646f247a1872a83c786f26
+timeCreated: 1442802551
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: building_0
+    21300002: building_1
+    21300004: building_2
+    21300006: building_3
+    21300008: building_4
+    21300010: building_5
+    21300012: building_6
+    21300014: building_7
+    21300016: building_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: building_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 128
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 128
+        width: 30
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 128
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 18
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 17
+        width: 27
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: building_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
